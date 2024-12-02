@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Autoplay, Navigation, Pagination, EffectFade } from 'swiper';
 import 'swiper/css/bundle';
-import bannerBg from '../../../public/assets/img/slider-img/energyflow_hero2.jpg';
+import bannerBg from '../../../public/assets/img/slider-img/banner.png';
 import Link from 'next/link';
 
 const HomeTwoBannerArea = () => {

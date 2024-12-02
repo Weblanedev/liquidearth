@@ -7,12 +7,12 @@
   h4 {
     font-size: 22px;
     margin-bottom: 25px;
-    color: var(--clr-common-black);
+    color: var(--clr-common-white);
   }
 }
 .footer-widget {
   p {
-    color: var(--clr-common-black);
+    color: var(--clr-common-white);
   }
   ul {
     li {
@@ -24,13 +24,13 @@
       a {
         font-size: 16px;
         line-height: 20px;
-        color: var(--clr-common-black);
+        color: var(--clr-common-white);
         position: relative;
         overflow: hidden;
         display: inline-block;
         &:hover {
           padding-left: 20px;
-          color: var(--clr-common-black);
+          color: var(--clr-common-white);
           &:before {
             left: 0;
           }
